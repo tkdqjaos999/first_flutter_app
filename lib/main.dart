@@ -82,7 +82,7 @@ class _HelloPageState extends State<HelloPage> {
 
   void _changeMessage() {
     setState(() {
-      _message = 'hello world';
+      _message = 'hello world2';
       _counter++;
     });
   }
